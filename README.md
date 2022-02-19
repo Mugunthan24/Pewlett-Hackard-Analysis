@@ -23,7 +23,8 @@ Pewlett Hackard (PH) is a large company with several thousand employees that has
 Based on the results from the four queries it can be notes that:
 -	the majority of employees retiring are in senior positions (Senior Engineer, Senior Staff)
 -	Managerial roles require significant less replacements
--	There are only 72,458 employees who are going to retire and only 1,549 eligible for the mentorship program
+-	A lot of employees underwent promotions
+-   Many employees have been with the organization for a long time, some since the 80s. 
 
 ## Summary
 The summary below will elaborate on:
@@ -42,4 +43,11 @@ The summary below will elaborate on:
 
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility_titles_and_department.PNG)
 
+![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility_titles.PNG)
+
+![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility_departments.PNG)
+
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty_count.PNG)
+
+Based on the tables above, 1,549 employees are eligible for the mentorship program, and there are 72,458 roles will need to be filled. If the organization is planning to do 1:1 training then it will not be possible to train everyone. If there are group training sessions then it will be possible. Additionally, 2 manager positions will need to be filled but currently there are no managers eligible for the mentorship program.
+
