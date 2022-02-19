@@ -6,7 +6,7 @@ SELECT e.emp_no,
 	t.title,
 	t.from_date,
 	t.to_date
-INTO employee_database
+INTO retirement_titles
 FROM employees as e
 LEFT JOIN titles as t
 ON e.emp_no = t.emp_no

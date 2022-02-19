@@ -8,6 +8,8 @@ Pewlett Hackard (PH) is a large company with several thousand employees that has
 -	the number of individuals needed to fill the various positions
 
 ## Results
+
+![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.PNG)
 Based on the results from the two queries it can be notes that:
 -	the majority of employees retiring are in senior positions (Senior Engineer, Senior Staff)
 -	Managerial roles require significant less replacements
