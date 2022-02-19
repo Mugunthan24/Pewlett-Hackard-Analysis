@@ -10,8 +10,14 @@ Pewlett Hackard (PH) is a large company with several thousand employees that has
 ## Results
 
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/retirement_titles.PNG)
+
+
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.PNG)
+
+
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.PNG)
+
+
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.PNG)
 
 Based on the results from the two queries it can be notes that:
