@@ -32,6 +32,8 @@ The summary below will elaborate on:
 
 ### Number of Roles Needed to be Filled
 
+![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.PNG)
+
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles_count.PNG)
 
 72,458 roles will need to be filled as the “silver tsunami” begins to make an impact. Using the retiring_titles table, the image of the query above has summed the number of employees in each role.
@@ -39,3 +41,5 @@ The summary below will elaborate on:
 ### Retirement Ready Employees to Mentor the Next Generation
 
 ![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty_count.PNG)
+
+![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility_titles_and_department.PNG)
