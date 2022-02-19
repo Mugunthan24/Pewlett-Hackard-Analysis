@@ -38,4 +38,4 @@ The summary below will elaborate on:
 
 ### Retirement Ready Employees to Mentor the Next Generation
 
-![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility_titles_and_department.PNG)
+![image_name](https://github.com/Mugunthan24/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty_count.PNG)
