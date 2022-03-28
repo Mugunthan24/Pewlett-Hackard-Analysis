@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-Doing analysis on organizations aging workforce
+Doing analysis on organizations aging workforce.
 
 ## Overview of the Analysis
 Pewlett Hackard (PH) is a large company with several thousand employees that has been around for a long time. With many baby boomers at the organization who are soon going to retire, PH is planning ahead by trying to determine:
